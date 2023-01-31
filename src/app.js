@@ -1,3 +1,12 @@
+/*
+* File: app.js
+* Author: Szávai Balázs
+* Copyright: 2023/01/31 Szávai Balázs
+* Group: Szoft I/1/E
+* Date: 2023/01/31
+* Github: https://github.com/szavaibali/
+* Licenc: GNU GPL
+*/
 const radiusElem = document.querySelector('#radius');
 const heightElem = document.querySelector('#height');
 const calcButton = document.querySelector('#calcButton');
